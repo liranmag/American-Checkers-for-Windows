@@ -1,0 +1,14 @@
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\bin\Debug\DamkaGameLogic.exe.config
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\bin\Debug\DamkaGameLogic.exe
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\bin\Debug\DamkaGameLogic.pdb
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\bin\Debug\ff-Adlm-GN\DamkaGameLogic.resources.dll
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.csproj.AssemblyReference.cache
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.csproj.SuggestedBindingRedirects.cache
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.BoardDialogForm.resources
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.GameSettingsForm.resources
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.GameSettingsForm.ff-Adlm-GN.resources
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.csproj.GenerateResource.cache
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\ff-Adlm-GN\DamkaGameLogic.resources.dll
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.exe
+C:\Users\liran\OneDrive\שולחן העבודה\B22 Ex05 ZoharAfengar 315505966 LiranMagnezi 205973605\DamkaGameLogic\obj\Debug\DamkaGameLogic.pdb
